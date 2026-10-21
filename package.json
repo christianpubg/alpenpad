@@ -1,0 +1,9 @@
+{
+  "name": "alpenpad",
+  "private": true,
+  "type": "module",
+  "description": "Alpenpad — launch pump.fun coins on Solana, finalized under Alpenglow.",
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  }
+}
